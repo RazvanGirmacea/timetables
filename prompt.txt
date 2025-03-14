@@ -1,0 +1,24 @@
+I need to implement a web app that will teach 10-12 year old kids to multiply.
+
+The app will allow the user to start a test of multiple multiplications of numbers between 2 and 12, excluding 10.
+
+
+Key requirements:
+1. DESIGN: Modern interface, minimalist, big fonts and buttons. 
+2. User Experience: The focus should be on the inputs when the page loads, and pressing ENTER will submit and show next question.
+3. The user will select between 5, 10, 20, 50, 100 questions and press Start (or hit ENTER). It will then start a timer (that will display on bottom of the screen). 
+At the end it will stop the timer.
+4. Track the time of each question. At the end, display total time, average time per question, correct/wrong answers. For each wrong answer, add 10 seconds to the timer.
+5. Allow the user to restart after the trial ended, or to stop the current test to start a new one.
+
+Please consider:
+- Error handling
+- Edge cases
+- Performance optimization
+- Best practices
+
+Make sure the code will be easy to scale.
+
+
+Please do not unnecessarily remove any comments or code.
+Generate the code with clear comments explaining the logic.
